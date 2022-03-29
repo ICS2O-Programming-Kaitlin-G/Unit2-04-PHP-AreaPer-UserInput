@@ -1,0 +1,14 @@
+/* Created by: Katie
+* Created on: March 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit2-04-HTML-AreaPer-UserInput
+*/
+
+h1 {
+  color: darkgoldenrod;
+  background-color: lightblue;
+}
+
+body {
+  background-color: silver;
+}
